@@ -1,0 +1,3 @@
+Using threads: 16  
+Execution time: 0.521926 seconds  
+Average steps: 155.272  
